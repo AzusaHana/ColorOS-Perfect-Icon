@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <linearGradient id="_未命名的渐变_10" data-name="未命名的渐变 10" x1="54" y1="1022" x2="54" y2="914" gradientTransform="translate(0 -914)" gradientUnits="userSpaceOnUse">
+      <stop offset=".167" stop-color="#13a0d9"/>
+      <stop offset=".332" stop-color="#16a3dc"/>
+      <stop offset=".5" stop-color="#1aa7e0"/>
+      <stop offset=".668" stop-color="#1face5"/>
+      <stop offset=".833" stop-color="#22afe9"/>
+    </linearGradient>
+  </defs>
+  <rect width="108" height="108" fill="url(#_未命名的渐变_10)"/>
+</svg>
