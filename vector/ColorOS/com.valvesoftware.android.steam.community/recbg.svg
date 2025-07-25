@@ -1,18 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 108 108" style="enable-background:new 0 0 108 108;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-</style>
-<g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="54" y1="108" x2="54" y2="0">
-		<stop  offset="0" style="stop-color:#091B3F"/>
-		<stop  offset="0.25" style="stop-color:#0F204C"/>
-		<stop  offset="0.5" style="stop-color:#143266"/>
-		<stop  offset="0.75" style="stop-color:#15578B"/>
-		<stop  offset="1" style="stop-color:#1489BC"/>
-	</linearGradient>
-	<rect y="0" class="st0" width="108" height="108"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <defs>
+    <clipPath id="b">
+      <rect y="0" width="108" height="108"/>
+    </clipPath>
+    <linearGradient id="a" x1=".5" y1="108.25" x2=".5" y2="106.75" gradientTransform="translate(0 11664) scale(108 -108)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#1289b9"/>
+      <stop offset=".14" stop-color="#146d9f"/>
+      <stop offset=".57" stop-color="#091b40"/>
+    </linearGradient>
+  </defs>
+  <rect x="-27" y="-27" width="162" height="162" style="fill:url(#a);clip-path:url(#b)"/>
 </svg>
