@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <defs>
+    <clipPath id="b">
+      <rect y="0" width="108" height="108"/>
+    </clipPath>
+    <linearGradient id="a" x1="-27" y1="-27" x2="135" y2="135" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff4840"/>
+      <stop offset="1" stop-color="#ff0000"/>
+    </linearGradient>
+  </defs>
+  <rect x="-27" y="-27" width="162" height="162" style="fill:url(#a);clip-path:url(#b)"/>
+</svg>
