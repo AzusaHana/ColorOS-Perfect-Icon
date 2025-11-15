@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 704 704">
+  <defs>
+    <clipPath id="c">
+      <path d="M497.9697,454.8737l-4.8457-4.7688-97.5781-95.8749-22.4743,22.0604,75.2392,73.8144h-192.4347l197.8885-191.7535,3.8605-3.7396c10.0431-9.7318,3.0254-26.5216-11.0833-26.5216h-174.656l-28.9024,28.1369c-.8021.7801-.2381,2.1244.89,2.1244h164.7264l-197.6651,191.7535-4.8274,4.6846c-10.0321,9.7391-3.0071,26.518,11.1017,26.518h269.5896c14.0501,0,21.0935-16.6726,11.1712-26.4337" style="clip-rule:evenodd"/>
+    </clipPath>
+    <linearGradient id="a" x1="-443.5341" y1="861.125" x2="-443.5341" y2="736.4444" gradientTransform="translate(2954.0667 5051.9334) scale(5.8667 -5.8667)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ee0029"/>
+      <stop offset=".3059" stop-color="#eb0029"/>
+      <stop offset="1" stop-color="#bd0021"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-443.5341" y1="861.125" x2="-443.5341" y2="741.125" gradientTransform="translate(2954.0667 5051.9334) scale(5.8667 -5.8667)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eb0029" stop-opacity=".498"/>
+      <stop offset="1" stop-color="#eb0029" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g style="clip-path:url(#c)">
+    <rect width="704" height="704" style="fill:url(#a)"/>
+    <rect width="704" height="704" style="fill:url(#b)"/>
+  </g>
+</svg>

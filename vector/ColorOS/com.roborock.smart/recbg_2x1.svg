@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 240">
+  <defs>
+    <clipPath id="c">
+      <rect width="820" height="240"/>
+    </clipPath>
+    <linearGradient id="a" x1="-69.5" y1="481.5" x2="-69.5" y2="294.4791" gradientTransform="translate(549 903) scale(2 -2)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ee0029"/>
+      <stop offset=".3059" stop-color="#eb0029"/>
+      <stop offset="1" stop-color="#bd0021"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-69.5" y1="481.5" x2="-69.5" y2="301.5" gradientTransform="translate(549 903) scale(2 -2)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eb0029" stop-opacity=".498"/>
+      <stop offset="1" stop-color="#eb0029" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g style="clip-path:url(#c)">
+    <rect y="-60" width="820" height="360" style="fill:url(#a)"/>
+    <rect y="-60" width="820" height="360" style="fill:url(#b)"/>
+  </g>
+</svg>
